@@ -30,11 +30,13 @@ const bayar = () => {
  if(...){
   alert()
   //jika memilih resto
- }else if(...){
+ }else{
+   if(...){
  alert() 
  //jika memilih cash
  }else{
   alert()
  }
 };
+}
 
